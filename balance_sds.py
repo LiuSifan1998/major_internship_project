@@ -1,4 +1,4 @@
-# train classifiers on down-size sampling processed class-balanced dataset
+# train classifiers on down-size sampling processed class-balanced dataset using representations from esm
 import pandas as pd
 import numpy as np
 from sklearn.feature_selection import SelectKBest, chi2,SelectFpr,f_classif,mutual_info_classif
