@@ -1,3 +1,4 @@
+# use xlnet encode protein sequences
 import tensorflow as tf
 from transformers import TFXLNetModel, XLNetTokenizer,XLNetConfig
 import re
