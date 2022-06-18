@@ -1,3 +1,4 @@
+# use xl encode protein sequences
 from transformers import TFT5EncoderModel, T5Tokenizer
 import numpy as np
 import pandas as pd
