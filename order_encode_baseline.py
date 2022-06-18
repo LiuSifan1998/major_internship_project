@@ -1,4 +1,4 @@
-# order encode
+# use order encode to encode protein sequences
 from Bio import SeqIO
 import pandas as pd
 import numpy as np
