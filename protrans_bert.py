@@ -1,3 +1,4 @@
+# use bert encode protein sequences
 import tensorflow as tf
 from transformers import TFBertModel, BertTokenizer,BertConfig
 import re
